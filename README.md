@@ -15,7 +15,7 @@ To test various hypothesis such as the effect of days service on a MPs voting an
 In this project I have endeavoured to better utilise the data found on data.parliament to allow for greater usability as a tool for democratic engagement. While loyalty to a party is not always the main concern when voters choose their MP, divisions within parties are becoming increasingly relevant. Though the data used here is just a snapshot of UK Parliament between 2001-2007, this approach could be used across a multitude of circumstances, from local government, to international organisations such as the UN. The tool has the possibility to be adapted according to the needs of the user.
 
 
-<h2>Intructions</h2>
+<h2>Instructions</h2>
 
 <b>Project details:</b>
 Python version 3
