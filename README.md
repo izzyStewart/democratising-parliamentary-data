@@ -1,4 +1,4 @@
-<h1> democratising-parliamentary-data</h1>
+<h1> Democratising parliamentary data - using big data techniques</h1>
 
 
 This project aims to use data scraped from online sources to increase usability and analysis for a greater segment of society.
@@ -13,6 +13,7 @@ On embarking on this project, I wanted to look at what effects the loyalty of th
 To test various hypothesis such as the effect of days service on a MPs voting and if the relationship between the party’s loyalty, I used linear regression from MLLIB in Spark. I also used PCA and cluster analysis to examine the relationship of MPs and party voting behaviour before and after an election period.
 
 In this project I have endeavoured to better utilise the data found on data.parliament to allow for greater usability as a tool for democratic engagement. While loyalty to a party is not always the main concern when voters choose their MP, divisions within parties are becoming increasingly relevant. Though the data used here is just a snapshot of UK Parliament between 2001-2007, this approach could be used across a multitude of circumstances, from local government, to international organisations such as the UN. The tool has the possibility to be adapted according to the needs of the user.
+
 
 <h2>Intructions</h2>
 
@@ -61,5 +62,6 @@ Data taken from data.parliament: http://www.data.parliament.uk/
 - seaborn
 
 <b>Additional setup</b>
+
 To run the program you need to have spark and mongodb installed locally.
 
